@@ -69,10 +69,8 @@ body{
 /* ========================== 
      ---- section style
 ============================ */
-
-
-.brand__name {
-	font-weight: 800!important;
+.img-item {
+	max-width: 50%;
 }
 
 /* ========================== 
